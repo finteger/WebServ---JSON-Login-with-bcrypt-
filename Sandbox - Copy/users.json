@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "$2b$10$FSaHH9HgBRXKNYISJP6noeQmoRuf2J8UROOX02s/hBPT31OQ/klR6"
+    },
+    {
+      "username": "user2",
+      "password": "$2b$10$p5S7AtB6WYqBt5Rn5mV4T.fk35GO2PhguP6tf9UdjV42DLB0P3QCC"
+    },
+    {
+      "username": "todd.nash@rdpolytech.ca",
+      "password": "$2b$10$R0E6QRqds..5hU.odQ8g8e8xFwA/jZqFNy1BKgVOgFzs4VLINKtEe"
+    }
+  ]
+}
