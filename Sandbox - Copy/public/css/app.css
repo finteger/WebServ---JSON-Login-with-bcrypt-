@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     background-color: lightblue;
+    background-image: url('/images/star.jpg');
+    background-size: cover;
     margin: 0;
     padding: 0;
 }
